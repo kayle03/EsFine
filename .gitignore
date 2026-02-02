@@ -13,21 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
-# IDE Settings
 .idea/
-*.iml
-.gradle/
-local.properties
-
-# Build Output
-build/
-app/build/
-
-# Android Specific
-captures/
-.externalNativeBuild/
-.cxx/
-
-# System Files
-.DS_Store
-Thumbs.db
+*.log
+*.hprof 
