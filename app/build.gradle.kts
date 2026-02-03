@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.espin"
+    namespace = "com.example.esfine"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.espin"
+        applicationId = "com.example.esfine"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
