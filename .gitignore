@@ -2,3 +2,6 @@
 build_output.log
 app/build/
 *.iml
+
+.gradle/
+local.properties
